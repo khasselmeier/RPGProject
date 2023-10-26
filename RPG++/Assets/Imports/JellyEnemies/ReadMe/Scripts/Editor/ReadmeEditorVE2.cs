@@ -6,7 +6,6 @@ using System;
 using System.IO;
 using System.Reflection;
 
-[CustomEditor(typeof(ReadmeVE2))]
 [InitializeOnLoad]
 public class ReadmeEditorVE2 : Editor {
 	
